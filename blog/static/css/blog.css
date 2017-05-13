@@ -37,6 +37,13 @@ h1, h2, h3, h4 {
     margin-right: 20px;
 }
 
+.menu {
+    color: #64FE2E;
+    float: left;
+    font-size: 50pt;
+    margin-left: 50px;
+  }
+
 .post {
     margin-bottom: 70px;
 }
