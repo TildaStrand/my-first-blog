@@ -44,6 +44,10 @@ h1, h2, h3, h4 {
     margin-left: 50px;
   }
 
+  .menu:hover {
+    color: #FE2EF7;
+  }
+
 .post {
     margin-bottom: 70px;
 }
